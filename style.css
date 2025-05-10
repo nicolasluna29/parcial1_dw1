@@ -1,0 +1,21 @@
+div {
+    background-color: #14a768;
+    padding:20 px;
+    margin: 10px;
+    border-radius: 14px;
+}
+#body {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+.big-text {
+    font-size: em;
+    color: white;
+}
+.medium-text {
+    font-size: .5em;
+    color: white;
+}
+.main-title {
+    text-shadow: 0cm 0cm 2px white;
+}
